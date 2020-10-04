@@ -1,0 +1,8 @@
+/src/test/resources/createProject.feature
+/build/
+/.gradle/
+/gradle/
+/.idea/
+/gradlew
+/gradlew.bat
+/settings.gradle
